@@ -1,0 +1,20 @@
+# torch — MPS backend requires PyTorch >= 2.1
+torch>=2.1
+
+# torchvision — required by some HuggingFace video processors
+torchvision
+
+# torchcodec — for future file-based video decoding in Phase 2 (not used in webcam path)
+torchcodec
+
+# transformers from git HEAD — required for V-JEPA 2 model support
+git+https://github.com/huggingface/transformers
+
+# web server (used by vjepa2_server.py)
+flask
+
+# webcam capture and frame display
+opencv-python
+
+# array manipulation
+numpy
