@@ -1,0 +1,1012 @@
+[
+  {
+    "ucf_class":"PlayingDhol",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.8340123236,
+    "most_common_ssv2":"Hitting [something] with [something]",
+    "most_common_ssv2_count":7,
+    "unique_ssv2_predictions":3,
+    "mean_entropy":0.3177524373,
+    "video_count":10
+  },
+  {
+    "ucf_class":"HulaHoop",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.8078604639,
+    "most_common_ssv2":"Spinning [something] so it continues spinning",
+    "most_common_ssv2_count":10,
+    "unique_ssv2_predictions":1,
+    "mean_entropy":0.4986356421,
+    "video_count":10
+  },
+  {
+    "ucf_class":"Drumming",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.7384819865,
+    "most_common_ssv2":"Hitting [something] with [something]",
+    "most_common_ssv2_count":8,
+    "unique_ssv2_predictions":2,
+    "mean_entropy":0.5765989377,
+    "video_count":10
+  },
+  {
+    "ucf_class":"WalkingWithDog",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.7177459896,
+    "most_common_ssv2":"Moving away from [something] with your camera",
+    "most_common_ssv2_count":6,
+    "unique_ssv2_predictions":5,
+    "mean_entropy":0.4771924275,
+    "video_count":10
+  },
+  {
+    "ucf_class":"CuttingInKitchen",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.6952732295,
+    "most_common_ssv2":"Spreading [something] onto [something]",
+    "most_common_ssv2_count":8,
+    "unique_ssv2_predictions":3,
+    "mean_entropy":0.5132959767,
+    "video_count":10
+  },
+  {
+    "ucf_class":"ApplyEyeMakeup",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.6949505419,
+    "most_common_ssv2":"Hitting [something] with [something]",
+    "most_common_ssv2_count":20,
+    "unique_ssv2_predictions":1,
+    "mean_entropy":0.5243045571,
+    "video_count":20
+  },
+  {
+    "ucf_class":"Hammering",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.6583343118,
+    "most_common_ssv2":"Hitting [something] with [something]",
+    "most_common_ssv2_count":8,
+    "unique_ssv2_predictions":3,
+    "mean_entropy":0.5808021184,
+    "video_count":10
+  },
+  {
+    "ucf_class":"Fencing",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.6477579832,
+    "most_common_ssv2":"Hitting [something] with [something]",
+    "most_common_ssv2_count":9,
+    "unique_ssv2_predictions":2,
+    "mean_entropy":0.5626577542,
+    "video_count":10
+  },
+  {
+    "ucf_class":"CleanAndJerk",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.6161126375,
+    "most_common_ssv2":"Lifting [something] up completely without letting it drop down",
+    "most_common_ssv2_count":7,
+    "unique_ssv2_predictions":2,
+    "mean_entropy":0.653687681,
+    "video_count":10
+  },
+  {
+    "ucf_class":"PlayingViolin",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.5989067316,
+    "most_common_ssv2":"Hitting [something] with [something]",
+    "most_common_ssv2_count":9,
+    "unique_ssv2_predictions":2,
+    "mean_entropy":0.6335135989,
+    "video_count":10
+  },
+  {
+    "ucf_class":"ThrowDiscus",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.5851459414,
+    "most_common_ssv2":"Spinning [something] so it continues spinning",
+    "most_common_ssv2_count":8,
+    "unique_ssv2_predictions":2,
+    "mean_entropy":0.7736067476,
+    "video_count":10
+  },
+  {
+    "ucf_class":"PlayingFlute",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.5838068227,
+    "most_common_ssv2":"Trying to bend [something unbendable] so nothing happens",
+    "most_common_ssv2_count":8,
+    "unique_ssv2_predictions":2,
+    "mean_entropy":0.7914381558,
+    "video_count":9
+  },
+  {
+    "ucf_class":"PlayingCello",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.5823583186,
+    "most_common_ssv2":"Hitting [something] with [something]",
+    "most_common_ssv2_count":8,
+    "unique_ssv2_predictions":2,
+    "mean_entropy":0.7137485399,
+    "video_count":10
+  },
+  {
+    "ucf_class":"BenchPress",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.5775502846,
+    "most_common_ssv2":"Hitting [something] with [something]",
+    "most_common_ssv2_count":6,
+    "unique_ssv2_predictions":2,
+    "mean_entropy":0.5941253282,
+    "video_count":10
+  },
+  {
+    "ucf_class":"Nunchucks",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.5767298043,
+    "most_common_ssv2":"Hitting [something] with [something]",
+    "most_common_ssv2_count":6,
+    "unique_ssv2_predictions":3,
+    "mean_entropy":0.7569961488,
+    "video_count":10
+  },
+  {
+    "ucf_class":"ParallelBars",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.5421420008,
+    "most_common_ssv2":"Turning [something] upside down",
+    "most_common_ssv2_count":7,
+    "unique_ssv2_predictions":3,
+    "mean_entropy":0.8272761654,
+    "video_count":10
+  },
+  {
+    "ucf_class":"StillRings",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.5387472153,
+    "most_common_ssv2":"Throwing [something] in the air and letting it fall",
+    "most_common_ssv2_count":8,
+    "unique_ssv2_predictions":2,
+    "mean_entropy":0.8407315257,
+    "video_count":10
+  },
+  {
+    "ucf_class":"TableTennisShot",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.5255437344,
+    "most_common_ssv2":"Hitting [something] with [something]",
+    "most_common_ssv2_count":10,
+    "unique_ssv2_predictions":1,
+    "mean_entropy":0.7868999338,
+    "video_count":10
+  },
+  {
+    "ucf_class":"TrampolineJumping",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.5229830444,
+    "most_common_ssv2":"Throwing [something] in the air and catching it",
+    "most_common_ssv2_count":7,
+    "unique_ssv2_predictions":3,
+    "mean_entropy":0.7735199309,
+    "video_count":10
+  },
+  {
+    "ucf_class":"FieldHockeyPenalty",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.5062615842,
+    "most_common_ssv2":"Hitting [something] with [something]",
+    "most_common_ssv2_count":6,
+    "unique_ssv2_predictions":3,
+    "mean_entropy":0.6968933345,
+    "video_count":10
+  },
+  {
+    "ucf_class":"JugglingBalls",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.4844776779,
+    "most_common_ssv2":"Throwing [something] in the air and catching it",
+    "most_common_ssv2_count":8,
+    "unique_ssv2_predictions":3,
+    "mean_entropy":0.8518078679,
+    "video_count":10
+  },
+  {
+    "ucf_class":"BoxingSpeedBag",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.481385316,
+    "most_common_ssv2":"Spinning [something] so it continues spinning",
+    "most_common_ssv2_count":10,
+    "unique_ssv2_predictions":1,
+    "mean_entropy":0.8953016774,
+    "video_count":10
+  },
+  {
+    "ucf_class":"PushUps",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.4799184009,
+    "most_common_ssv2":"Squeezing [something]",
+    "most_common_ssv2_count":6,
+    "unique_ssv2_predictions":3,
+    "mean_entropy":0.6689035142,
+    "video_count":10
+  },
+  {
+    "ucf_class":"BasketballDunk",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.4744514823,
+    "most_common_ssv2":"Throwing [something] in the air and catching it",
+    "most_common_ssv2_count":9,
+    "unique_ssv2_predictions":2,
+    "mean_entropy":0.7290892435,
+    "video_count":10
+  },
+  {
+    "ucf_class":"VolleyballSpiking",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.4718826801,
+    "most_common_ssv2":"Throwing [something] in the air and catching it",
+    "most_common_ssv2_count":7,
+    "unique_ssv2_predictions":3,
+    "mean_entropy":0.8009549137,
+    "video_count":10
+  },
+  {
+    "ucf_class":"CliffDiving",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.4552492499,
+    "most_common_ssv2":"[Something] falling like a feather or paper",
+    "most_common_ssv2_count":9,
+    "unique_ssv2_predictions":2,
+    "mean_entropy":0.7680116825,
+    "video_count":10
+  },
+  {
+    "ucf_class":"Typing",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.4455109179,
+    "most_common_ssv2":"Moving [part] of [something]",
+    "most_common_ssv2_count":6,
+    "unique_ssv2_predictions":3,
+    "mean_entropy":0.9240062045,
+    "video_count":10
+  },
+  {
+    "ucf_class":"BalanceBeam",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.444061783,
+    "most_common_ssv2":"Turning [something] upside down",
+    "most_common_ssv2_count":18,
+    "unique_ssv2_predictions":2,
+    "mean_entropy":0.7929281304,
+    "video_count":20
+  },
+  {
+    "ucf_class":"Basketball",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.4359664172,
+    "most_common_ssv2":"Throwing [something]",
+    "most_common_ssv2_count":8,
+    "unique_ssv2_predictions":3,
+    "mean_entropy":0.921846825,
+    "video_count":10
+  },
+  {
+    "ucf_class":"Diving",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.4339002669,
+    "most_common_ssv2":"Throwing [something] in the air and letting it fall",
+    "most_common_ssv2_count":10,
+    "unique_ssv2_predictions":1,
+    "mean_entropy":0.8781789636,
+    "video_count":10
+  },
+  {
+    "ucf_class":"IceDancing",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.428624171,
+    "most_common_ssv2":"Spinning [something] so it continues spinning",
+    "most_common_ssv2_count":6,
+    "unique_ssv2_predictions":3,
+    "mean_entropy":0.8528828337,
+    "video_count":10
+  },
+  {
+    "ucf_class":"TennisSwing",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.4208028346,
+    "most_common_ssv2":"Hitting [something] with [something]",
+    "most_common_ssv2_count":6,
+    "unique_ssv2_predictions":2,
+    "mean_entropy":0.886186359,
+    "video_count":10
+  },
+  {
+    "ucf_class":"BlowDryHair",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.4048190549,
+    "most_common_ssv2":"Twisting [something]",
+    "most_common_ssv2_count":6,
+    "unique_ssv2_predictions":4,
+    "mean_entropy":0.7925668488,
+    "video_count":10
+  },
+  {
+    "ucf_class":"HandstandPushups",
+    "behavior":"HIGH_CONF_CONSISTENT",
+    "mean_top1_prob":0.4010705069,
+    "most_common_ssv2":"Moving [part] of [something]",
+    "most_common_ssv2_count":6,
+    "unique_ssv2_predictions":2,
+    "mean_entropy":0.8214533818,
+    "video_count":10
+  },
+  {
+    "ucf_class":"HorseRace",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.5646797836,
+    "most_common_ssv2":"Showing [something] behind [something]",
+    "most_common_ssv2_count":5,
+    "unique_ssv2_predictions":5,
+    "mean_entropy":0.7365820701,
+    "video_count":10
+  },
+  {
+    "ucf_class":"Swing",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.5593989372,
+    "most_common_ssv2":"Throwing [something] in the air and catching it",
+    "most_common_ssv2_count":5,
+    "unique_ssv2_predictions":4,
+    "mean_entropy":0.7117038519,
+    "video_count":10
+  },
+  {
+    "ucf_class":"ShavingBeard",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.55259206,
+    "most_common_ssv2":"Spreading [something] onto [something]",
+    "most_common_ssv2_count":4,
+    "unique_ssv2_predictions":4,
+    "mean_entropy":0.664172063,
+    "video_count":10
+  },
+  {
+    "ucf_class":"SoccerPenalty",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.5485075653,
+    "most_common_ssv2":"Letting [something] roll along a flat surface",
+    "most_common_ssv2_count":4,
+    "unique_ssv2_predictions":4,
+    "mean_entropy":0.5335392194,
+    "video_count":10
+  },
+  {
+    "ucf_class":"Punch",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.5226568922,
+    "most_common_ssv2":"Hitting [something] with [something]",
+    "most_common_ssv2_count":3,
+    "unique_ssv2_predictions":4,
+    "mean_entropy":0.7441557264,
+    "video_count":10
+  },
+  {
+    "ucf_class":"Mixing",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.502064769,
+    "most_common_ssv2":"Spreading [something] onto [something]",
+    "most_common_ssv2_count":4,
+    "unique_ssv2_predictions":6,
+    "mean_entropy":0.763593008,
+    "video_count":10
+  },
+  {
+    "ucf_class":"FrisbeeCatch",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.4998370379,
+    "most_common_ssv2":"Approaching [something] with your camera",
+    "most_common_ssv2_count":3,
+    "unique_ssv2_predictions":6,
+    "mean_entropy":0.7599682821,
+    "video_count":10
+  },
+  {
+    "ucf_class":"SkateBoarding",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.4981822133,
+    "most_common_ssv2":"Letting [something] roll down a slanted surface",
+    "most_common_ssv2_count":4,
+    "unique_ssv2_predictions":6,
+    "mean_entropy":0.7853944477,
+    "video_count":10
+  },
+  {
+    "ucf_class":"Kayaking",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.4928861901,
+    "most_common_ssv2":"Hitting [something] with [something]",
+    "most_common_ssv2_count":5,
+    "unique_ssv2_predictions":4,
+    "mean_entropy":0.5711684939,
+    "video_count":10
+  },
+  {
+    "ucf_class":"Skiing",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.4867082462,
+    "most_common_ssv2":"Letting [something] roll down a slanted surface",
+    "most_common_ssv2_count":5,
+    "unique_ssv2_predictions":4,
+    "mean_entropy":0.7699483302,
+    "video_count":10
+  },
+  {
+    "ucf_class":"Rafting",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.4840686396,
+    "most_common_ssv2":"Moving [something] up",
+    "most_common_ssv2_count":2,
+    "unique_ssv2_predictions":8,
+    "mean_entropy":0.6469040442,
+    "video_count":10
+  },
+  {
+    "ucf_class":"HorseRiding",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.4763171375,
+    "most_common_ssv2":"Turning the camera left while filming [something]",
+    "most_common_ssv2_count":5,
+    "unique_ssv2_predictions":5,
+    "mean_entropy":0.8052638168,
+    "video_count":10
+  },
+  {
+    "ucf_class":"UnevenBars",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.4741367117,
+    "most_common_ssv2":"Throwing [something] in the air and letting it fall",
+    "most_common_ssv2_count":4,
+    "unique_ssv2_predictions":4,
+    "mean_entropy":0.8909085003,
+    "video_count":10
+  },
+  {
+    "ucf_class":"GolfSwing",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.4712709859,
+    "most_common_ssv2":"Pretending to throw [something]",
+    "most_common_ssv2_count":5,
+    "unique_ssv2_predictions":3,
+    "mean_entropy":0.7730574945,
+    "video_count":10
+  },
+  {
+    "ucf_class":"JumpRope",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.4561452329,
+    "most_common_ssv2":"Throwing [something] in the air and catching it",
+    "most_common_ssv2_count":5,
+    "unique_ssv2_predictions":3,
+    "mean_entropy":0.7605141547,
+    "video_count":10
+  },
+  {
+    "ucf_class":"Shotput",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.4501776934,
+    "most_common_ssv2":"Turning [something] upside down",
+    "most_common_ssv2_count":3,
+    "unique_ssv2_predictions":4,
+    "mean_entropy":0.8293654625,
+    "video_count":10
+  },
+  {
+    "ucf_class":"SoccerJuggling",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.440957433,
+    "most_common_ssv2":"Hitting [something] with [something]",
+    "most_common_ssv2_count":4,
+    "unique_ssv2_predictions":3,
+    "mean_entropy":0.9011030655,
+    "video_count":10
+  },
+  {
+    "ucf_class":"TaiChi",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.4343591012,
+    "most_common_ssv2":"Spinning [something] so it continues spinning",
+    "most_common_ssv2_count":5,
+    "unique_ssv2_predictions":5,
+    "mean_entropy":0.6759202616,
+    "video_count":10
+  },
+  {
+    "ucf_class":"SkyDiving",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.4265235603,
+    "most_common_ssv2":"Spinning [something] so it continues spinning",
+    "most_common_ssv2_count":5,
+    "unique_ssv2_predictions":5,
+    "mean_entropy":0.742549179,
+    "video_count":10
+  },
+  {
+    "ucf_class":"JavelinThrow",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.4264306977,
+    "most_common_ssv2":"Turning the camera left while filming [something]",
+    "most_common_ssv2_count":4,
+    "unique_ssv2_predictions":5,
+    "mean_entropy":0.7279579603,
+    "video_count":10
+  },
+  {
+    "ucf_class":"Rowing",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.4223112613,
+    "most_common_ssv2":"Pushing [something] with [something]",
+    "most_common_ssv2_count":3,
+    "unique_ssv2_predictions":7,
+    "mean_entropy":0.8330395934,
+    "video_count":10
+  },
+  {
+    "ucf_class":"PommelHorse",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.4197548196,
+    "most_common_ssv2":"Spinning [something] so it continues spinning",
+    "most_common_ssv2_count":5,
+    "unique_ssv2_predictions":6,
+    "mean_entropy":0.7393861252,
+    "video_count":10
+  },
+  {
+    "ucf_class":"Billiards",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.4132229343,
+    "most_common_ssv2":"[Something] colliding with [something] and both are being deflected",
+    "most_common_ssv2_count":5,
+    "unique_ssv2_predictions":3,
+    "mean_entropy":0.857914574,
+    "video_count":10
+  },
+  {
+    "ucf_class":"Bowling",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.4124229208,
+    "most_common_ssv2":"Throwing [something] in the air and letting it fall",
+    "most_common_ssv2_count":4,
+    "unique_ssv2_predictions":6,
+    "mean_entropy":0.9126848418,
+    "video_count":10
+  },
+  {
+    "ucf_class":"MilitaryParade",
+    "behavior":"HIGH_CONF_INCONSISTENT",
+    "mean_top1_prob":0.4026044324,
+    "most_common_ssv2":"Turning the camera left while filming [something]",
+    "most_common_ssv2_count":4,
+    "unique_ssv2_predictions":5,
+    "mean_entropy":0.8523661394,
+    "video_count":10
+  },
+  {
+    "ucf_class":"PlayingGuitar",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.3994433179,
+    "most_common_ssv2":"Pretending to squeeze [something]",
+    "most_common_ssv2_count":6,
+    "unique_ssv2_predictions":2,
+    "mean_entropy":0.827304558,
+    "video_count":10
+  },
+  {
+    "ucf_class":"FloorGymnastics",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.3983264551,
+    "most_common_ssv2":"Turning [something] upside down",
+    "most_common_ssv2_count":4,
+    "unique_ssv2_predictions":4,
+    "mean_entropy":0.8800712712,
+    "video_count":10
+  },
+  {
+    "ucf_class":"BoxingPunchingBag",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.3953077286,
+    "most_common_ssv2":"Hitting [something] with [something]",
+    "most_common_ssv2_count":4,
+    "unique_ssv2_predictions":3,
+    "mean_entropy":0.8449702886,
+    "video_count":10
+  },
+  {
+    "ucf_class":"PizzaTossing",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.3894140661,
+    "most_common_ssv2":"Spinning [something] so it continues spinning",
+    "most_common_ssv2_count":2,
+    "unique_ssv2_predictions":7,
+    "mean_entropy":0.8370769286,
+    "video_count":10
+  },
+  {
+    "ucf_class":"BandMarching",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.3770642072,
+    "most_common_ssv2":"Turning the camera left while filming [something]",
+    "most_common_ssv2_count":2,
+    "unique_ssv2_predictions":6,
+    "mean_entropy":0.8393438757,
+    "video_count":10
+  },
+  {
+    "ucf_class":"PlayingDaf",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.3751696877,
+    "most_common_ssv2":"Pushing [something] so it spins",
+    "most_common_ssv2_count":6,
+    "unique_ssv2_predictions":4,
+    "mean_entropy":0.8853108295,
+    "video_count":10
+  },
+  {
+    "ucf_class":"PlayingSitar",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.3711797088,
+    "most_common_ssv2":"Pretending to squeeze [something]",
+    "most_common_ssv2_count":8,
+    "unique_ssv2_predictions":3,
+    "mean_entropy":0.809596673,
+    "video_count":10
+  },
+  {
+    "ucf_class":"MoppingFloor",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.3684393927,
+    "most_common_ssv2":"Hitting [something] with [something]",
+    "most_common_ssv2_count":2,
+    "unique_ssv2_predictions":8,
+    "mean_entropy":0.8087987948,
+    "video_count":10
+  },
+  {
+    "ucf_class":"PlayingPiano",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.359956798,
+    "most_common_ssv2":"Moving [part] of [something]",
+    "most_common_ssv2_count":7,
+    "unique_ssv2_predictions":4,
+    "mean_entropy":0.7839694209,
+    "video_count":10
+  },
+  {
+    "ucf_class":"HighJump",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.3556225702,
+    "most_common_ssv2":"Throwing [something] in the air and letting it fall",
+    "most_common_ssv2_count":3,
+    "unique_ssv2_predictions":4,
+    "mean_entropy":0.847242531,
+    "video_count":10
+  },
+  {
+    "ucf_class":"YoYo",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.352935034,
+    "most_common_ssv2":"Throwing [something] in the air and catching it",
+    "most_common_ssv2_count":3,
+    "unique_ssv2_predictions":5,
+    "mean_entropy":0.9078992052,
+    "video_count":10
+  },
+  {
+    "ucf_class":"Knitting",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.3516354442,
+    "most_common_ssv2":"Squeezing [something]",
+    "most_common_ssv2_count":7,
+    "unique_ssv2_predictions":4,
+    "mean_entropy":0.8403655775,
+    "video_count":10
+  },
+  {
+    "ucf_class":"Biking",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.3503774747,
+    "most_common_ssv2":"Showing [something] behind [something]",
+    "most_common_ssv2_count":3,
+    "unique_ssv2_predictions":6,
+    "mean_entropy":0.8649360185,
+    "video_count":10
+  },
+  {
+    "ucf_class":"RopeClimbing",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.3450574487,
+    "most_common_ssv2":"Holding [something]",
+    "most_common_ssv2_count":6,
+    "unique_ssv2_predictions":5,
+    "mean_entropy":0.8265022345,
+    "video_count":10
+  },
+  {
+    "ucf_class":"FrontCrawl",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.3359649852,
+    "most_common_ssv2":"Twisting [something]",
+    "most_common_ssv2_count":9,
+    "unique_ssv2_predictions":2,
+    "mean_entropy":0.7392467872,
+    "video_count":10
+  },
+  {
+    "ucf_class":"HandstandWalking",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.3342943899,
+    "most_common_ssv2":"Showing [something] to the camera",
+    "most_common_ssv2_count":2,
+    "unique_ssv2_predictions":9,
+    "mean_entropy":0.6757033214,
+    "video_count":10
+  },
+  {
+    "ucf_class":"ApplyLipstick",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.3287896231,
+    "most_common_ssv2":"Spreading [something] onto [something]",
+    "most_common_ssv2_count":8,
+    "unique_ssv2_predictions":5,
+    "mean_entropy":0.7706702443,
+    "video_count":20
+  },
+  {
+    "ucf_class":"BlowingCandles",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.3175089739,
+    "most_common_ssv2":"Moving [part] of [something]",
+    "most_common_ssv2_count":2,
+    "unique_ssv2_predictions":8,
+    "mean_entropy":0.714494036,
+    "video_count":10
+  },
+  {
+    "ucf_class":"CricketShot",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.3159809478,
+    "most_common_ssv2":"Hitting [something] with [something]",
+    "most_common_ssv2_count":3,
+    "unique_ssv2_predictions":6,
+    "mean_entropy":0.7729942844,
+    "video_count":10
+  },
+  {
+    "ucf_class":"BaseballPitch",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.3137437448,
+    "most_common_ssv2":"Throwing [something] in the air and letting it fall",
+    "most_common_ssv2_count":3,
+    "unique_ssv2_predictions":4,
+    "mean_entropy":0.8717134856,
+    "video_count":10
+  },
+  {
+    "ucf_class":"Haircut",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.3110434636,
+    "most_common_ssv2":"Putting [something] into [something]",
+    "most_common_ssv2_count":2,
+    "unique_ssv2_predictions":7,
+    "mean_entropy":0.7659760471,
+    "video_count":10
+  },
+  {
+    "ucf_class":"HammerThrow",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.304410018,
+    "most_common_ssv2":"Spinning [something] so it continues spinning",
+    "most_common_ssv2_count":3,
+    "unique_ssv2_predictions":6,
+    "mean_entropy":0.8714863399,
+    "video_count":10
+  },
+  {
+    "ucf_class":"HeadMassage",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.3030887485,
+    "most_common_ssv2":"Spreading [something] onto [something]",
+    "most_common_ssv2_count":3,
+    "unique_ssv2_predictions":7,
+    "mean_entropy":0.891696394,
+    "video_count":10
+  },
+  {
+    "ucf_class":"JumpingJack",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.2949590072,
+    "most_common_ssv2":"Throwing [something] in the air and letting it fall",
+    "most_common_ssv2_count":8,
+    "unique_ssv2_predictions":3,
+    "mean_entropy":0.8798766505,
+    "video_count":10
+  },
+  {
+    "ucf_class":"SumoWrestling",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.2908536002,
+    "most_common_ssv2":"Closing [something]",
+    "most_common_ssv2_count":2,
+    "unique_ssv2_predictions":7,
+    "mean_entropy":0.72595172,
+    "video_count":10
+  },
+  {
+    "ucf_class":"BrushingTeeth",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.282790146,
+    "most_common_ssv2":"Trying to bend [something unbendable] so nothing happens",
+    "most_common_ssv2_count":2,
+    "unique_ssv2_predictions":8,
+    "mean_entropy":0.8070184757,
+    "video_count":10
+  },
+  {
+    "ucf_class":"Archery",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.2826191172,
+    "most_common_ssv2":"Pulling two ends of [something] but nothing happens",
+    "most_common_ssv2_count":6,
+    "unique_ssv2_predictions":5,
+    "mean_entropy":0.8344351143,
+    "video_count":20
+  },
+  {
+    "ucf_class":"Skijet",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.2797796413,
+    "most_common_ssv2":"Pushing [something] with [something]",
+    "most_common_ssv2_count":2,
+    "unique_ssv2_predictions":7,
+    "mean_entropy":0.8076654451,
+    "video_count":10
+  },
+  {
+    "ucf_class":"BodyWeightSquats",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.277531293,
+    "most_common_ssv2":"Hitting [something] with [something]",
+    "most_common_ssv2_count":2,
+    "unique_ssv2_predictions":7,
+    "mean_entropy":0.7682013667,
+    "video_count":10
+  },
+  {
+    "ucf_class":"BabyCrawling",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.2624044687,
+    "most_common_ssv2":"Spinning [something] so it continues spinning",
+    "most_common_ssv2_count":4,
+    "unique_ssv2_predictions":7,
+    "mean_entropy":0.7779177824,
+    "video_count":20
+  },
+  {
+    "ucf_class":"LongJump",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.256936197,
+    "most_common_ssv2":"Throwing [something] onto a surface",
+    "most_common_ssv2_count":5,
+    "unique_ssv2_predictions":6,
+    "mean_entropy":0.7767916613,
+    "video_count":10
+  },
+  {
+    "ucf_class":"PlayingTabla",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.2515819222,
+    "most_common_ssv2":"Moving [part] of [something]",
+    "most_common_ssv2_count":3,
+    "unique_ssv2_predictions":6,
+    "mean_entropy":0.8698490697,
+    "video_count":10
+  },
+  {
+    "ucf_class":"BreastStroke",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.2493740126,
+    "most_common_ssv2":"Sprinkling [something] onto [something]",
+    "most_common_ssv2_count":2,
+    "unique_ssv2_predictions":9,
+    "mean_entropy":0.7042941278,
+    "video_count":10
+  },
+  {
+    "ucf_class":"WallPushups",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.2344432324,
+    "most_common_ssv2":"Pretending to open [something] without actually opening it",
+    "most_common_ssv2_count":8,
+    "unique_ssv2_predictions":3,
+    "mean_entropy":0.781165683,
+    "video_count":10
+  },
+  {
+    "ucf_class":"PullUps",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.2304356448,
+    "most_common_ssv2":"Trying to bend [something unbendable] so nothing happens",
+    "most_common_ssv2_count":5,
+    "unique_ssv2_predictions":4,
+    "mean_entropy":0.7694846123,
+    "video_count":10
+  },
+  {
+    "ucf_class":"CricketBowling",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.2302288003,
+    "most_common_ssv2":"Putting [something similar to other things that are already on the table]",
+    "most_common_ssv2_count":2,
+    "unique_ssv2_predictions":7,
+    "mean_entropy":0.7367938581,
+    "video_count":10
+  },
+  {
+    "ucf_class":"Lunges",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.227852796,
+    "most_common_ssv2":"Spinning [something] so it continues spinning",
+    "most_common_ssv2_count":4,
+    "unique_ssv2_predictions":5,
+    "mean_entropy":0.8010580432,
+    "video_count":10
+  },
+  {
+    "ucf_class":"RockClimbingIndoor",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.2269269243,
+    "most_common_ssv2":"Closing [something]",
+    "most_common_ssv2_count":3,
+    "unique_ssv2_predictions":5,
+    "mean_entropy":0.6943231602,
+    "video_count":10
+  },
+  {
+    "ucf_class":"Surfing",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.2133658133,
+    "most_common_ssv2":"Wiping [something] off of [something]",
+    "most_common_ssv2_count":6,
+    "unique_ssv2_predictions":4,
+    "mean_entropy":0.8011062416,
+    "video_count":10
+  },
+  {
+    "ucf_class":"SalsaSpin",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.1943739519,
+    "most_common_ssv2":"Throwing [something] in the air and catching it",
+    "most_common_ssv2_count":4,
+    "unique_ssv2_predictions":5,
+    "mean_entropy":0.7495133771,
+    "video_count":10
+  },
+  {
+    "ucf_class":"WritingOnBoard",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.1890320458,
+    "most_common_ssv2":"Pretending or failing to wipe [something] off of [something]",
+    "most_common_ssv2_count":4,
+    "unique_ssv2_predictions":6,
+    "mean_entropy":0.7571866305,
+    "video_count":10
+  },
+  {
+    "ucf_class":"PoleVault",
+    "behavior":"LOW_CONF_SCATTERED",
+    "mean_top1_prob":0.1676728532,
+    "most_common_ssv2":"Throwing [something]",
+    "most_common_ssv2_count":3,
+    "unique_ssv2_predictions":6,
+    "mean_entropy":0.6878202859,
+    "video_count":10
+  }
+]

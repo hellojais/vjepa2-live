@@ -18,3 +18,9 @@ opencv-python
 
 # array manipulation
 numpy
+
+# Phase 2 batch evaluation
+pandas
+matplotlib
+seaborn
+tqdm
