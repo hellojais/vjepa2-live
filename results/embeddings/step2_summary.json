@@ -1,0 +1,55 @@
+{
+  "behavior": {
+    "HIGH_CONF_CONSISTENT": {
+      "count": 359,
+      "mean_confidence": 0.5541,
+      "mean_entropy": 0.7163,
+      "top3_ucf_classes": [
+        "ApplyEyeMakeup",
+        "BalanceBeam",
+        "Basketball"
+      ]
+    },
+    "HIGH_CONF_INCONSISTENT": {
+      "count": 250,
+      "mean_confidence": 0.4735,
+      "mean_entropy": 0.7596,
+      "top3_ucf_classes": [
+        "Billiards",
+        "Bowling",
+        "FrisbeeCatch"
+      ]
+    },
+    "LOW_CONF_SCATTERED": {
+      "count": 450,
+      "mean_confidence": 0.3016,
+      "mean_entropy": 0.7998,
+      "top3_ucf_classes": [
+        "ApplyLipstick",
+        "Archery",
+        "BabyCrawling"
+      ]
+    }
+  },
+  "top5_ssv2_labels": {
+    "Hitting [something] with [something]": 154,
+    "Spinning [something] so it continues spinning": 98,
+    "Throwing [something] in the air and catching it": 80,
+    "Throwing [something] in the air and letting it fall": 53,
+    "Turning [something] upside down": 46
+  },
+  "top5_ucf_by_confidence": {
+    "PlayingDhol": 0.8340123236179352,
+    "HulaHoop": 0.8078604638576508,
+    "Drumming": 0.7384819865226746,
+    "WalkingWithDog": 0.7177459895610809,
+    "CuttingInKitchen": 0.6952732294797898
+  },
+  "bottom5_ucf_by_confidence": {
+    "RockClimbingIndoor": 0.22692692428827282,
+    "Surfing": 0.213365813344717,
+    "SalsaSpin": 0.1943739518523216,
+    "WritingOnBoard": 0.18903204575181004,
+    "PoleVault": 0.16767285317182537
+  }
+}

@@ -24,3 +24,7 @@ pandas
 matplotlib
 seaborn
 tqdm
+
+# Phase 3 Step 2 visualization
+scikit-learn
+umap-learn
