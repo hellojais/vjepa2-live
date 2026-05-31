@@ -1,0 +1,221 @@
+{
+  "blind_spots": {
+    "PoleVault": {
+      "nearest_ssv2_concepts": [
+        [
+          "Turning [something] upside down",
+          0.8061048984527588
+        ],
+        [
+          "Throwing [something]",
+          0.7885192632675171
+        ],
+        [
+          "Throwing [something] in the air and letting it fall",
+          0.7833297252655029
+        ],
+        [
+          "Throwing [something] onto a surface",
+          0.7330309152603149
+        ],
+        [
+          "[Something] falling like a feather or paper",
+          0.7172287702560425
+        ]
+      ],
+      "is_isolated": true,
+      "nearest_neighbor_classes": [
+        "PoleVault",
+        "PoleVault",
+        "PoleVault",
+        "PoleVault",
+        "PoleVault",
+        "PoleVault",
+        "PoleVault",
+        "PoleVault",
+        "PoleVault",
+        "PoleVault",
+        "HighJump",
+        "HighJump",
+        "HighJump",
+        "HighJump",
+        "HighJump",
+        "HighJump",
+        "ParallelBars",
+        "Shotput"
+      ],
+      "n_blind_spot_neighbors": 10
+    },
+    "WritingOnBoard": {
+      "nearest_ssv2_concepts": [
+        [
+          "Sprinkling [something] onto [something]",
+          0.8563064336776733
+        ],
+        [
+          "Pretending to open [something] without actually opening it",
+          0.8209085464477539
+        ],
+        [
+          "Hitting [something] with [something]",
+          0.8151324391365051
+        ],
+        [
+          "Putting [something] into [something]",
+          0.8085328340530396
+        ],
+        [
+          "Poking a hole into [some substance]",
+          0.8069769144058228
+        ]
+      ],
+      "is_isolated": true,
+      "nearest_neighbor_classes": [
+        "WritingOnBoard",
+        "WritingOnBoard",
+        "WritingOnBoard",
+        "WritingOnBoard",
+        "WritingOnBoard",
+        "WritingOnBoard",
+        "WritingOnBoard",
+        "WritingOnBoard",
+        "WritingOnBoard",
+        "WritingOnBoard",
+        "WallPushups",
+        "WallPushups",
+        "CricketBowling",
+        "CricketBowling",
+        "CricketShot",
+        "CricketBowling",
+        "TableTennisShot",
+        "YoYo",
+        "Hammering",
+        "CricketBowling"
+      ],
+      "n_blind_spot_neighbors": 10
+    },
+    "SalsaSpin": {
+      "nearest_ssv2_concepts": [
+        [
+          "Spinning [something] so it continues spinning",
+          0.8967828750610352
+        ],
+        [
+          "Throwing [something] in the air and catching it",
+          0.8912359476089478
+        ],
+        [
+          "Twisting [something]",
+          0.8739361763000488
+        ],
+        [
+          "Hitting [something] with [something]",
+          0.8714373111724854
+        ],
+        [
+          "Closing [something]",
+          0.8583098649978638
+        ]
+      ],
+      "is_isolated": true,
+      "nearest_neighbor_classes": [
+        "SalsaSpin",
+        "SalsaSpin",
+        "SalsaSpin",
+        "SalsaSpin",
+        "SalsaSpin",
+        "SalsaSpin",
+        "SalsaSpin",
+        "SalsaSpin",
+        "SalsaSpin",
+        "SalsaSpin",
+        "Archery",
+        "Archery",
+        "IceDancing",
+        "HighJump",
+        "FloorGymnastics",
+        "SumoWrestling",
+        "JavelinThrow",
+        "Punch",
+        "IceDancing",
+        "HighJump"
+      ],
+      "n_blind_spot_neighbors": 10
+    },
+    "Surfing": {
+      "nearest_ssv2_concepts": [
+        [
+          "Wiping [something] off of [something]",
+          0.9689662456512451
+        ],
+        [
+          "Moving [something] down",
+          0.6079822778701782
+        ],
+        [
+          "Pulling [something] from left to right",
+          0.6079345941543579
+        ],
+        [
+          "Pulling [something] from right to left",
+          0.6026397347450256
+        ],
+        [
+          "Throwing [something] onto a surface",
+          0.6018890142440796
+        ]
+      ],
+      "is_isolated": true,
+      "nearest_neighbor_classes": [
+        "Surfing",
+        "Surfing",
+        "Surfing",
+        "Surfing",
+        "Surfing",
+        "Surfing",
+        "Surfing",
+        "Surfing",
+        "Surfing",
+        "Surfing",
+        "Rafting",
+        "Rowing",
+        "Rowing",
+        "Rowing"
+      ],
+      "n_blind_spot_neighbors": 10
+    }
+  },
+  "hitting_cluster": {
+    "within_group_similarity": 0.60854572057724,
+    "vs_global_baseline": 0.93,
+    "mean_sim_std": 0.12468371540307999,
+    "most_similar_ucf_classes": [
+      "TableTennisShot",
+      "Hammering",
+      "ApplyEyeMakeup"
+    ],
+    "least_similar_ucf_classes": [
+      "Drumming",
+      "PlayingViolin",
+      "PlayingCello"
+    ]
+  },
+  "behavior_geometry": {
+    "ambiguity_correlation_with_confidence": -0.06051058861656557,
+    "spread_correlation_with_confidence": -0.15314704837210832,
+    "most_ambiguous_classes": [
+      "BreastStroke",
+      "StillRings",
+      "SumoWrestling",
+      "Haircut",
+      "Fencing"
+    ],
+    "least_ambiguous_classes": [
+      "Billiards",
+      "Surfing",
+      "CliffDiving",
+      "BalanceBeam",
+      "SoccerPenalty"
+    ]
+  }
+}
