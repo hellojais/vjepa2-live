@@ -28,3 +28,6 @@ tqdm
 # Phase 3 Step 2 visualization
 scikit-learn
 umap-learn
+
+# Phase 3 Step 4 hypothesis testing
+scipy
