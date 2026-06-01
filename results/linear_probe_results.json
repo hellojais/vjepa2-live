@@ -1,0 +1,249 @@
+{
+  "overall_accuracy_mean": 0.982062058481624,
+  "overall_accuracy_std": 0.010067724767620962,
+  "per_class_accuracy": {
+    "ApplyEyeMakeup": 1.0,
+    "ApplyLipstick": 1.0,
+    "Archery": 1.0,
+    "BabyCrawling": 1.0,
+    "BalanceBeam": 1.0,
+    "BandMarching": 1.0,
+    "BaseballPitch": 1.0,
+    "Basketball": 1.0,
+    "BasketballDunk": 1.0,
+    "BenchPress": 1.0,
+    "Biking": 1.0,
+    "Billiards": 1.0,
+    "BlowDryHair": 1.0,
+    "BlowingCandles": 0.7,
+    "BodyWeightSquats": 1.0,
+    "Bowling": 1.0,
+    "BoxingPunchingBag": 1.0,
+    "BoxingSpeedBag": 1.0,
+    "BreastStroke": 1.0,
+    "BrushingTeeth": 1.0,
+    "CleanAndJerk": 1.0,
+    "CliffDiving": 1.0,
+    "CricketBowling": 0.9,
+    "CricketShot": 1.0,
+    "CuttingInKitchen": 1.0,
+    "Diving": 1.0,
+    "Drumming": 1.0,
+    "Fencing": 1.0,
+    "FieldHockeyPenalty": 1.0,
+    "FloorGymnastics": 1.0,
+    "FrisbeeCatch": 1.0,
+    "FrontCrawl": 1.0,
+    "GolfSwing": 1.0,
+    "Haircut": 0.8,
+    "HammerThrow": 0.9,
+    "Hammering": 1.0,
+    "HandstandPushups": 1.0,
+    "HandstandWalking": 1.0,
+    "HeadMassage": 1.0,
+    "HighJump": 1.0,
+    "HorseRace": 1.0,
+    "HorseRiding": 1.0,
+    "HulaHoop": 1.0,
+    "IceDancing": 1.0,
+    "JavelinThrow": 0.8,
+    "JugglingBalls": 1.0,
+    "JumpRope": 1.0,
+    "JumpingJack": 1.0,
+    "Kayaking": 1.0,
+    "Knitting": 1.0,
+    "LongJump": 1.0,
+    "Lunges": 1.0,
+    "MilitaryParade": 1.0,
+    "Mixing": 1.0,
+    "MoppingFloor": 1.0,
+    "Nunchucks": 1.0,
+    "ParallelBars": 0.8,
+    "PizzaTossing": 0.9,
+    "PlayingCello": 1.0,
+    "PlayingDaf": 1.0,
+    "PlayingDhol": 1.0,
+    "PlayingFlute": 1.0,
+    "PlayingGuitar": 1.0,
+    "PlayingPiano": 1.0,
+    "PlayingSitar": 1.0,
+    "PlayingTabla": 1.0,
+    "PlayingViolin": 1.0,
+    "PoleVault": 1.0,
+    "PommelHorse": 1.0,
+    "PullUps": 1.0,
+    "Punch": 1.0,
+    "PushUps": 1.0,
+    "Rafting": 1.0,
+    "RockClimbingIndoor": 1.0,
+    "RopeClimbing": 1.0,
+    "Rowing": 1.0,
+    "SalsaSpin": 1.0,
+    "ShavingBeard": 1.0,
+    "Shotput": 1.0,
+    "SkateBoarding": 0.8,
+    "Skiing": 1.0,
+    "Skijet": 1.0,
+    "SkyDiving": 1.0,
+    "SoccerJuggling": 1.0,
+    "SoccerPenalty": 1.0,
+    "StillRings": 0.8,
+    "SumoWrestling": 0.9,
+    "Surfing": 1.0,
+    "Swing": 1.0,
+    "TableTennisShot": 1.0,
+    "TaiChi": 1.0,
+    "TennisSwing": 1.0,
+    "ThrowDiscus": 1.0,
+    "TrampolineJumping": 1.0,
+    "Typing": 1.0,
+    "UnevenBars": 0.9,
+    "VolleyballSpiking": 1.0,
+    "WalkingWithDog": 0.9,
+    "WallPushups": 1.0,
+    "WritingOnBoard": 1.0,
+    "YoYo": 1.0
+  },
+  "per_behavior_accuracy": {
+    "HIGH_CONF_CONSISTENT": 0.9852941176470589,
+    "HIGH_CONF_INCONSISTENT": 0.98,
+    "LOW_CONF_SCATTERED": 0.9785714285714286
+  },
+  "blind_spot_accuracy": {
+    "PoleVault": 1.0,
+    "WritingOnBoard": 1.0,
+    "SalsaSpin": 1.0,
+    "Surfing": 1.0
+  },
+  "tight_cluster_paradox": {
+    "mean_linear_probe_accuracy": 0.9952380952380951,
+    "mean_ssv2_confidence": 0.3079272903856777,
+    "delta": 0.6873108048524175,
+    "conclusion": "Backbone encodes UCF-101 action information for the tight-cluster paradox classes (linear probe 0.995 vs SSv2 confidence 0.308, delta=+0.687). The SSv2 classification head is the bottleneck, not the representation."
+  },
+  "top10_most_improved_classes": [
+    {
+      "ucf_class": "PoleVault",
+      "linear_probe_acc": 1.0,
+      "ssv2_confidence": 0.1676728531718253,
+      "delta": 0.8323271468281748
+    },
+    {
+      "ucf_class": "WritingOnBoard",
+      "linear_probe_acc": 1.0,
+      "ssv2_confidence": 0.18903204575181,
+      "delta": 0.81096795424819
+    },
+    {
+      "ucf_class": "SalsaSpin",
+      "linear_probe_acc": 1.0,
+      "ssv2_confidence": 0.1943739518523216,
+      "delta": 0.8056260481476785
+    },
+    {
+      "ucf_class": "Surfing",
+      "linear_probe_acc": 1.0,
+      "ssv2_confidence": 0.213365813344717,
+      "delta": 0.7866341866552831
+    },
+    {
+      "ucf_class": "RockClimbingIndoor",
+      "linear_probe_acc": 1.0,
+      "ssv2_confidence": 0.2269269242882728,
+      "delta": 0.7730730757117272
+    },
+    {
+      "ucf_class": "Lunges",
+      "linear_probe_acc": 1.0,
+      "ssv2_confidence": 0.2278527960181235,
+      "delta": 0.7721472039818765
+    },
+    {
+      "ucf_class": "PullUps",
+      "linear_probe_acc": 1.0,
+      "ssv2_confidence": 0.2304356448352336,
+      "delta": 0.7695643551647664
+    },
+    {
+      "ucf_class": "WallPushups",
+      "linear_probe_acc": 1.0,
+      "ssv2_confidence": 0.2344432324171066,
+      "delta": 0.7655567675828934
+    },
+    {
+      "ucf_class": "BreastStroke",
+      "linear_probe_acc": 1.0,
+      "ssv2_confidence": 0.2493740126490592,
+      "delta": 0.7506259873509408
+    },
+    {
+      "ucf_class": "PlayingTabla",
+      "linear_probe_acc": 1.0,
+      "ssv2_confidence": 0.2515819221735,
+      "delta": 0.7484180778264999
+    }
+  ],
+  "top10_least_improved_classes": [
+    {
+      "ucf_class": "PlayingDhol",
+      "linear_probe_acc": 1.0,
+      "ssv2_confidence": 0.8340123236179352,
+      "delta": 0.1659876763820648
+    },
+    {
+      "ucf_class": "WalkingWithDog",
+      "linear_probe_acc": 0.9,
+      "ssv2_confidence": 0.7177459895610809,
+      "delta": 0.1822540104389191
+    },
+    {
+      "ucf_class": "HulaHoop",
+      "linear_probe_acc": 1.0,
+      "ssv2_confidence": 0.8078604638576508,
+      "delta": 0.19213953614234924
+    },
+    {
+      "ucf_class": "ParallelBars",
+      "linear_probe_acc": 0.8,
+      "ssv2_confidence": 0.5421420007944107,
+      "delta": 0.2578579992055894
+    },
+    {
+      "ucf_class": "StillRings",
+      "linear_probe_acc": 0.8,
+      "ssv2_confidence": 0.5387472152709961,
+      "delta": 0.26125278472900393
+    },
+    {
+      "ucf_class": "Drumming",
+      "linear_probe_acc": 1.0,
+      "ssv2_confidence": 0.7384819865226746,
+      "delta": 0.2615180134773254
+    },
+    {
+      "ucf_class": "SkateBoarding",
+      "linear_probe_acc": 0.8,
+      "ssv2_confidence": 0.498182213306427,
+      "delta": 0.30181778669357306
+    },
+    {
+      "ucf_class": "CuttingInKitchen",
+      "linear_probe_acc": 1.0,
+      "ssv2_confidence": 0.6952732294797898,
+      "delta": 0.30472677052021024
+    },
+    {
+      "ucf_class": "ApplyEyeMakeup",
+      "linear_probe_acc": 1.0,
+      "ssv2_confidence": 0.6949505418539047,
+      "delta": 0.3050494581460953
+    },
+    {
+      "ucf_class": "Hammering",
+      "linear_probe_acc": 1.0,
+      "ssv2_confidence": 0.6583343118429184,
+      "delta": 0.34166568815708165
+    }
+  ],
+  "methodology_note": "~10 samples per class, 101-class problem. Per-class accuracy is coarse (2 test samples per fold for most classes). Delta compares linear probe correctness (UCF labels) against SSv2 softmax confidence (SSv2 labels) \u2014 these are incommensurable as absolute scores but valid for relative comparison: high delta = backbone encodes UCF structure that the SSv2 head cannot express. Results are internally valid for relative comparison but not representative of large-sample linear probe benchmarks."
+}
